@@ -1,5 +1,5 @@
 # 3D-Audio-Visualizer
-* Measures the amplitude of different sounds within a soundtrack
+* Application visualizes the amplitude of different sounds within a soundtrack in 3D
 
 * Utilizes a 3D sphere and rectangles to create the visualizer:
 
