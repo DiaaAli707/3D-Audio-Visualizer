@@ -8,7 +8,7 @@
 * Youtube Link: https://www.youtube.com/watch?v=PXyO3x4i5gY&feature=youtu.be 
 
 # Developed Using:
-     - Processing
+   - Processing
 
 # Running the Application:
-     1. Create a new processing project and copy the provided files into its directory
+   1. Create a new processing project and copy the provided files into its directory
