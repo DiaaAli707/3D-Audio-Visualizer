@@ -6,3 +6,9 @@
      o Length of rectangles corresponds to various amplitude inputs (different rectangles would have different length, they don't all share the same amplitude)
 
 * Youtube Link: https://www.youtube.com/watch?v=PXyO3x4i5gY&feature=youtu.be 
+
+# Developed Using:
+     - Processing
+
+# Running the Application:
+     1. Create a new processing project and copy the provided files into its directory
